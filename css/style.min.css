@@ -18,9 +18,9 @@
   color: #0b151f;
   width: 100%;
   position: relative;
-  border: 1px solid rgba(0, 0, 0, 0.01);
+  border: 1px solid rgba(0, 0, 0, 0.103);
   overflow: hidden;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1411764706);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.0745098039);
   border-radius: 4px;
 }
 #dm_live_cricket #dm_cricket_link {
